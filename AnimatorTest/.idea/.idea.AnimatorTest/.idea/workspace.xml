@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b96a98d4-d86f-4015-910a-df9a40b811d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/.idea/.idea.SkyRoad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/.idea/.idea.SkyRoad/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/ProtocolInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/StateCache/Hierarchy/44afce-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/StateCache/Hierarchy/44afce-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkyRoad/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-3c101e6ca582f46ae9826e88df1a707f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-3f140bd316dd54c709a9c9a60dfc7b44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-8876126f7973f4753b28ad46e125f6bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-933e64bf15766478eba4f0223140204f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-9d43e953e350c490399b317587ce6cc3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-b5d3c79c88d9045ada73acf45bb027ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-c72acde9e966a43f1846de0c24b809c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-dafc086e1e36b4ff3a9fe7af56823ee0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-e2ef7bce535b0448ba1b04e3bf03233e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkyRoad/Temp/UnityTempFile-f11e3a7b4e4e046ce88c9d605f70e8c4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/PlayerMove.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSC8B6XxXjfYgrzhCSHQVnN4Yj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b96a98d4-d86f-4015-910a-df9a40b811d4" name="Default Changelist" comment="" />
+      <created>1603787946286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603787946286</updated>
+      <workItem from="1603787958409" duration="5000" />
+      <workItem from="1603788780851" duration="6013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
