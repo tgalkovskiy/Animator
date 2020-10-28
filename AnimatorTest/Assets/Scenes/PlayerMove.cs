@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    [SerializeField] private GameObject Shot1;
     [SerializeField] private float Speed;
     private Vector2 Velocity;
     private Animator MainAnimator;

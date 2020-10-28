@@ -31,10 +31,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/SimpleFPS-main/SimpleFPS/Assets/Scripts/BehaviourScripts/AimLaserBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/Bcontrol.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/PlayerMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPS/MovePlyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/AnimBeh.cs" />
       </list>
     </option>
   </component>
@@ -80,6 +86,10 @@
       <updated>1603787946286</updated>
       <workItem from="1603787958409" duration="5000" />
       <workItem from="1603788780851" duration="6013000" />
+      <workItem from="1603819858469" duration="384000" />
+      <workItem from="1603876515281" duration="31000" />
+      <workItem from="1603876571948" duration="2413000" />
+      <workItem from="1603893389706" duration="880000" />
     </task>
     <servers />
   </component>
